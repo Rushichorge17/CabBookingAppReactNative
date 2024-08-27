@@ -1,4 +1,4 @@
-<div align="center">
+
 
 - React Native
 - Expo
@@ -41,7 +41,7 @@
 
 👉 **Responsive on Android and iOS**: Optimized for both Android and iOS devices.
 
-</div>
+
 
 
 
